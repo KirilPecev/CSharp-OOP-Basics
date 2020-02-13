@@ -1,2 +1,4 @@
-# CSharp-OOP-Basics
-C# Fundamentals OOP Basics
+# CSharp-OOP-Basics Course - SoftUni
+Exercises 
+# Built With
+.NET Core
